@@ -1,0 +1,277 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.2.f93f50fa)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_pbrSpecularGlossiness",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 960,
+            "type": "VEC3",
+            "max": [
+                67.0,
+                20.0,
+                431.0
+            ],
+            "min": [
+                -67.0,
+                0.0,
+                -47.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 960,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 1980,
+            "type": "SCALAR",
+            "max": [
+                959
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 270,
+            "type": "VEC3",
+            "max": [
+                66.80000305175781,
+                43.0,
+                433.79998779296877
+            ],
+            "min": [
+                -67.19999694824219,
+                -18.0,
+                -66.5
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 270,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 630,
+            "type": "SCALAR",
+            "max": [
+                269
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 39960,
+            "uri": "mfx_car_5ntr4.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 11520,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 11520,
+            "byteLength": 11520,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 23040,
+            "byteLength": 7920,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 30960,
+            "byteLength": 3240,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 34200,
+            "byteLength": 3240,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 37440,
+            "byteLength": 2520,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.1599999964237213,
+                    0.1599999964237213,
+                    0.1599999964237213,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.8868629336357117
+            },
+            "emissiveFactor": [
+                0.019999999552965165,
+                0.019999999552965165,
+                0.019999999552965165
+            ],
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.1599999964237213,
+                        0.1599999964237213,
+                        0.1599999964237213,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "glossinessFactor": 0.051200006157159808
+                }
+            }
+        },
+        {
+            "name": "Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.36000001430511477,
+                    0.35100001096725466,
+                    0.35100001096725466,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.7137832641601563
+            },
+            "emissiveFactor": [
+                0.07199999690055847,
+                0.07020000368356705,
+                0.07020000368356705
+            ],
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.36000001430511477,
+                        0.35100001096725466,
+                        0.35100001096725466,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.800000011920929,
+                        0.800000011920929,
+                        0.800000011920929
+                    ],
+                    "glossinessFactor": 0.12800002098083497
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Frm3.Frm5.Frm7.Frm9.Frm11.Frm13.Frm15.Frm17.Frm19.Frm21.Frm23.Frm25.Frm27.Frm29.Frm31.Frm33.Frm35.Frm37.Frm39.Frm41.Frm43.Frm45.Frm47.Frm49.Frm51.Frm53.Frm55.Frm57.Frm59.Poly_Geom_Data.Frm1.Frm3.Frm5.Frm7.Frm9.Frm11.Frm13.Poly_Geom_Data.Frm59.Frm57.Frm55.Frm53.Frm51.Frm49.Frm47.Frm45.Frm43.Frm41.Frm39.Frm37.Frm35.Frm33.Frm31.Frm29.Frm27.Frm25.Frm23.Frm21.Frm19.Frm17.Frm15.Frm13.Frm11.Frm9.Frm7.Frm5.Frm3.Frm1.Poly_Geom_Data.Frm59.Frm57.Frm55.Frm53.Frm51.Frm49.Frm47.Frm45.Frm43.Frm41.Frm39.Frm37.Frm35.Frm33.Frm31.Frm29.Frm27.Frm25.Frm23.Frm21.Frm19.Frm17.Frm15.Frm13.Frm11.Frm9.Frm7.Frm5.Frm3.Frm1.Poly_Geom_Data.Frm59.Frm57.Frm55.Frm53.Frm51.Frm49.Frm47.Frm45.Frm43.Frm41.Frm39.Frm37.Frm35.Frm33.Frm31.Frm29.Frm27.Frm25.Frm23.Frm21.Frm19.Frm17.Frm15.Frm13.Frm11.Frm9.Frm7.Frm5.Frm3.Frm1.Poly_Geom_Data.Frm59.Frm57.Frm55.Frm53.Frm51.Frm49.Frm47.Frm45.Frm43.Frm41.Frm39.Frm37.Frm35.Frm33.Frm31.Frm29.Frm27.Frm25.Frm23.Frm21.Frm19.Frm17.Frm15.Frm1",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 2,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1
+                    }
+                },
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 5,
+                    "attributes": {
+                        "POSITION": 3,
+                        "NORMAL": 4
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "$MergedNode_0",
+            "matrix": [
+                1.0,
+                0.0,
+                -0.0,
+                0.0,
+                0.0,
+                1.0,
+                -0.0,
+                0.0,
+                -0.0,
+                -0.0,
+                1.0,
+                -0.0,
+                67.19999694824219,
+                18.0,
+                -433.79998779296877,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}

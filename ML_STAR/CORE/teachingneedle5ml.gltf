@@ -1,0 +1,169 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.2.f93f50fa)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_pbrSpecularGlossiness",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 928,
+            "type": "VEC3",
+            "max": [
+                0.008449999615550042,
+                0.0,
+                0.008449999615550042
+            ],
+            "min": [
+                -0.008449999615550042,
+                -0.11799999326467514,
+                -0.008449999615550042
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 928,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 3504,
+            "type": "SCALAR",
+            "max": [
+                927
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 36288,
+            "uri": "teachingneedle5ml.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 11136,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 11136,
+            "byteLength": 11136,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 22272,
+            "byteLength": 14016,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.7529410123825073,
+                    0.7529410123825073,
+                    0.7529410123825073,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.8735089302062988
+            },
+            "emissiveFactor": [
+                0.1505880057811737,
+                0.1505880057811737,
+                0.1505880057811737
+            ],
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.7529410123825073,
+                        0.7529410123825073,
+                        0.7529410123825073,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.5,
+                        0.5,
+                        0.5
+                    ],
+                    "glossinessFactor": 0.06400000303983689
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Frm3.Poly_Geom_Data.Frm55.Frm53.Frm51.Frm49.Frm47.Frm45.Frm43.Frm41.Frm39.Frm37.Frm35.Frm33.Frm31.Frm29.Frm27.Frm25.Frm23.Frm21.Frm19.Frm17.Frm15.Frm13.Frm11.Frm9.Frm7.Frm5.Frm1",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 2,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "$MergedNode_0",
+            "matrix": [
+                1000.0,
+                0.0,
+                -0.0,
+                0.0,
+                0.0,
+                1000.0,
+                -0.0,
+                0.0,
+                -0.0,
+                -0.0,
+                1000.0,
+                -0.0,
+                0.0,
+                59.0,
+                -0.0,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}

@@ -1,0 +1,277 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.2.f93f50fa)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_pbrSpecularGlossiness",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 176,
+            "type": "VEC3",
+            "max": [
+                -0.0004999999655410647,
+                0.11470000445842743,
+                0.4975000023841858
+            ],
+            "min": [
+                -0.13449999690055848,
+                0.0,
+                -0.0
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 176,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 300,
+            "type": "SCALAR",
+            "max": [
+                175
+            ],
+            "min": [
+                0
+            ]
+        },
+        {
+            "bufferView": 3,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 40,
+            "type": "VEC3",
+            "max": [
+                -0.0005999999702908099,
+                0.11470000445842743,
+                0.4965999722480774
+            ],
+            "min": [
+                -0.13439998030662538,
+                0.11170000582933426,
+                0.01060001365840435
+            ]
+        },
+        {
+            "bufferView": 4,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 40,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                0.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 5,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 120,
+            "type": "SCALAR",
+            "max": [
+                39
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 6864,
+            "uri": "tip_car_480bc_a00.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 2112,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2112,
+            "byteLength": 2112,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4224,
+            "byteLength": 1200,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5424,
+            "byteLength": 480,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5904,
+            "byteLength": 480,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 6384,
+            "byteLength": 480,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.18000000715255738,
+                    0.18000000715255738,
+                    0.18000000715255738,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.8819898366928101
+            },
+            "emissiveFactor": [
+                0.035999998450279239,
+                0.035999998450279239,
+                0.035999998450279239
+            ],
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.18000000715255738,
+                        0.18000000715255738,
+                        0.18000000715255738,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.800000011920929,
+                        0.800000011920929,
+                        0.800000011920929
+                    ],
+                    "glossinessFactor": 0.0217600017786026
+                }
+            }
+        },
+        {
+            "name": "Material1",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.7529410123825073,
+                    0.7529410123825073,
+                    0.7529410123825073,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.7137832641601563
+            },
+            "emissiveFactor": [
+                0.1505880057811737,
+                0.1505880057811737,
+                0.1505880057811737
+            ],
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.7529410123825073,
+                        0.7529410123825073,
+                        0.7529410123825073,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.800000011920929,
+                        0.800000011920929,
+                        0.800000011920929
+                    ],
+                    "glossinessFactor": 0.12800002098083497
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Frm6.Poly_Geom_Data.Frm84.Frm82.Frm80.Frm78.Frm76.Frm74.Frm72.Frm70.Frm68.Frm66.Frm64.Frm62.Frm60.Frm58.Frm56.Frm54.Frm52.Frm50.Frm48.Frm46.Frm44.Frm42.Frm40.Frm38.Frm8.Frm10.Frm12.Frm14.Frm16.Frm26.Frm24.Frm22.Frm20.Frm18.Frm4",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 2,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1
+                    }
+                },
+                {
+                    "mode": 4,
+                    "material": 1,
+                    "indices": 5,
+                    "attributes": {
+                        "POSITION": 3,
+                        "NORMAL": 4
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "$MergedNode_0",
+            "matrix": [
+                1000.0,
+                0.0,
+                -0.0,
+                0.0,
+                0.0,
+                1000.0,
+                -0.0,
+                0.0,
+                0.0,
+                0.0,
+                1000.0,
+                -0.0,
+                -18.43050193786621,
+                -204.2675018310547,
+                -151.8509979248047,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}

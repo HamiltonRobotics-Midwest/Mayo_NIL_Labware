@@ -1,0 +1,169 @@
+{
+    "asset": {
+        "version": "2.0",
+        "generator": "Open Asset Import Library (assimp v5.2.f93f50fa)"
+    },
+    "extensionsUsed": [
+        "KHR_materials_pbrSpecularGlossiness",
+        "FB_ngon_encoding"
+    ],
+    "accessors": [
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 10468,
+            "type": "VEC3",
+            "max": [
+                0.003999999724328518,
+                -1.862645149230957e-9,
+                0.0039999959990382198
+            ],
+            "min": [
+                -0.003999999724328518,
+                -0.05979999899864197,
+                -0.06700000166893006
+            ]
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 10468,
+            "type": "VEC3",
+            "max": [
+                1.0,
+                1.0,
+                1.0
+            ],
+            "min": [
+                -1.0,
+                -1.0,
+                -1.0
+            ]
+        },
+        {
+            "bufferView": 2,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 32352,
+            "type": "SCALAR",
+            "max": [
+                10467
+            ],
+            "min": [
+                0
+            ]
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 380640,
+            "uri": "teachingneedleblock.bin"
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 125616,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 125616,
+            "byteLength": 125616,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 251232,
+            "byteLength": 129408,
+            "target": 34963
+        }
+    ],
+    "materials": [
+        {
+            "name": "Material",
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.7529410123825073,
+                    0.7529410123825073,
+                    0.7529410123825073,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.9326549172401428
+            },
+            "emissiveFactor": [
+                0.02352900058031082,
+                0.02352900058031082,
+                0.02352900058031082
+            ],
+            "extensions": {
+                "KHR_materials_pbrSpecularGlossiness": {
+                    "diffuseFactor": [
+                        0.7529410123825073,
+                        0.7529410123825073,
+                        0.7529410123825073,
+                        1.0
+                    ],
+                    "specularFactor": [
+                        0.7529410123825073,
+                        0.7529410123825073,
+                        0.7529410123825073
+                    ],
+                    "glossinessFactor": 0.00800000037997961
+                }
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Frm3.Poly_Geom_Data.Frm701.Frm699.Frm697.Frm695.Frm693.Frm691.Frm689.Frm687.Frm685.Frm683.Frm681.Frm679.Frm677.Frm675.Frm673.Frm671.Frm669.Frm667.Frm665.Frm663.Frm661.Frm659.Frm657.Frm655.Frm653.Frm651.Frm649.Frm647.Frm645.Frm643.Frm641.Frm639.Frm637.Frm635.Frm633.Frm631.Frm629.Frm627.Frm625.Frm623.Frm621.Frm619.Frm617.Frm615.Frm613.Frm611.Frm609.Frm607.Frm605.Frm603.Frm601.Frm599.Frm597.Frm595.Frm593.Frm591.Frm589.Frm587.Frm585.Frm583.Frm581.Frm579.Frm577.Frm575.Frm573.Frm571.Frm569.Frm567.Frm565.Frm563.Frm561.Frm559.Frm557.Frm555.Frm553.Frm551.Frm549.Frm547.Frm545.Frm543.Frm541.Frm539.Frm537.Frm535.Frm533.Frm531.Frm529.Frm527.Frm525.Frm523.Frm521.Frm519.Frm517.Frm515.Frm513.Frm511.Frm509.Frm507.Frm505.Frm503.Frm501.Frm499.Frm497.Frm495.Frm493.Frm491.Frm489.Frm487.Frm485.Frm483.Frm481.Frm479.Frm477.Frm475.Frm473.Frm471.Frm469.Frm467.Frm465.Frm463.Frm461.Frm459.Frm457.Frm455.Frm453.Frm451.Frm449.Frm447.Frm445.Frm443.Frm441.Frm439.Frm437.Frm435.Frm433.Frm431.Frm429.Frm427.Frm425.Frm423.Frm421.Frm419.Frm417.Fr",
+            "primitives": [
+                {
+                    "mode": 4,
+                    "material": 0,
+                    "indices": 2,
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1
+                    }
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "name": "$MergedNode_0",
+            "matrix": [
+                1000.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1000.0,
+                0.0,
+                0.0,
+                -0.0,
+                -0.0,
+                1000.0,
+                -0.0,
+                0.0,
+                29.899995803833009,
+                31.5,
+                1.0
+            ],
+            "mesh": 0
+        }
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "scene": 0
+}
