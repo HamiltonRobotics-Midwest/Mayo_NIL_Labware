@@ -1,0 +1,6 @@
+# Ignore any installers
+*.exe
+*.msi
+*.pkg
+*.hampackage
+*.dat
