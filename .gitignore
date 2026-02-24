@@ -1,0 +1,6 @@
+# Ignore this stuff
+*.exe
+*.msi
+*.pkg
+*.hampackage
+*.dat
